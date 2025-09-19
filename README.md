@@ -4,7 +4,7 @@
 
 ![ExitLagProPack Banner](https://i.ytimg.com/vi/Oo9KgXbLpIg/maxresdefault.jpg)
 
-**Acerca de ExitLagProPack**: ExitLagProPack es un repositorio para usuarios de *ExitLag V4.305.1* en Windows, con herramientas y configuraciones gratuitas para optimizar conexiones de juego. Reduce latencia, ping y pérdida de paquetes para una experiencia fluida. Con 170K+ visitantes y 140K+ miembros, ¡potencia tus partidas hoy! (279 caracteres)
+**Acerca de ExitLagProPack**: ExitLagProPack es un repositorio para usuarios de *ExitLag V4.305.1* en Windows, con herramientas y configuraciones gratuitas para optimizar conexiones de juego. Reduce latencia, ping y pérdida de paquetes para una experiencia fluida. Con 170K+ visitantes y 140K+ miembros, ¡potencia tus partidas hoy! 
 
  
 
@@ -73,11 +73,11 @@ Mejora tu *ExitLag V4.305.1* con **ExitLagProPack** en Windows:
 ## 📸 Visuales
 
 **Interfaz de ExitLagProPack**  
-![Interfaz](https://www.example.com/images/exitlag-pro-interface.jpg)  
+![Interfaz](https://i.ytimg.com/vi/gt7WXqgs_SI/maxresdefault.jpg)  
 *Panel de optimización intuitivo.*
 
 **Características de las Herramientas**  
-![Características](https://www.example.com/images/exitlag-pro-features.jpg)  
+![Características](https://avatars.mds.yandex.net/i?id=f66dab7a0b508fb67e7cfa815c4697cf_l-5477655-images-thumbs&ref=rim&n=13&w=1260&h=709)  
 *Herramientas optimizadas para ExitLag.*
 
 ---
